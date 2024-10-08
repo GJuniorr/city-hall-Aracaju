@@ -1,0 +1,91 @@
+Partido;Nome;Cargo;Sexo;Ano;Turno;Eleito
+PT;Marcelo Déda;Prefeito;M;2000;1° Turno;Sim
+PCdoB;Edvaldo Nogueira;Vice;M;2000;1° Turno;Sim
+PV;Ismael Lima;Prefeito;M;2000;Não;Não
+PV;Reynaldo Nunes;Vice;M;2000;Não;Não
+PSB;Antônio Carlos Valadares;Prefeito;M;2000;Não;Não
+PFL;Max José Vasconcelos;Vice;M;2000;Não;Não
+PDT;Almeida Lima;Prefeito;M;2000;Não;Não
+PDT;Evaldo Campos;Vice;M;2000;Não;Não
+PHS;Adelmo Macedo;Prefeito;M;2000;Não;Não
+PHS;Fernando Rocha;Vice;M;2000;Não;Não
+PRP;Renato Sampaio;Prefeito;M;2004;Não;Não
+PRP;Augusto Barreto;Vice;M;2004;Não;Não
+PAN;Adelmo Macedo;Prefeito;M;2004;Não;Não
+PAN;Reges Meira;Vice;M;2004;Não;Não
+PPS;Susana Azevedo;Prefeito;F;2004;Não;Não
+PTdoB;Claudia Andrade;Vice;F;2004;Não;Não
+PSTU;Vera Lúcia;Prefeito;F;2004;Não;Não
+PSTU;Elinos Salbino;Vice;M;2004;Não;Não
+PMDB;Jorge Alberto;Prefeito;M;2004;Não;Não
+PDMB;Roberto Gurgel;Vice;M;2004;Não;Não
+PT;Marcelo Déda;Prefeito;M;2004;1° Turno;Sim
+PCdoB;Edvaldo Nogueira;Vice;M;2004;1° Turno;Sim
+PCdoB;Edvaldo Nogueira;Prefeito;M;2008;1° Turno;Sim
+PT;Silvio Santos;Vice;M;2008;1° Turno;Sim
+DEM;Mendonça Prado;Prefeito;M;2008;Não;Não
+DEM;Pedrinho Valadares;Vice;M;2008;Não;Não
+PCB;Anderson Góis;Prefeito;M;2008;Não;Não
+PCB;Waltiglei Santos de Oliveira;Vice;M;2008;Não;Não
+PSTU;Vera Lúcia;Prefeito;F;2008;Não;Não
+PSTU;Dalton Santos;Vice;M;2008;Não;Não
+PMDB;Almeida Lima;Prefeito;M;2008;Não;Não
+PTdoB;José Alves;Vice;M;2008;Não;Não
+PSTU;Vera Lúcia;Prefeito;F;2012;Não;Não
+PSOL;Vinicius Oliveira;Vice;F;2012;Não;Não
+PSB;Valadares Filho;Prefeito;M;2012;Não;Não
+PT;Conceição Vieira;Vice;F;2012;Não;Não
+PV;Reynaldo Nunes;Prefeito;M;2012;Não;Não
+PV;Evaldo Campos;Vice;M;2012;Não;Não
+DEM;João Alves Filho;Prefeito;M;2012;1° Turno;Sim
+PSDB;José Carlos Machado;Vice;M;2012;1° Turno;Sim
+PPS;Almeida Lima;Prefeito;M;2012;Não;Não
+PPS;Rivando Goes;Vice;M;2012;Não;Não
+REDE;Dr.Emerson;Prefeito;M;2016;Não;Não
+REDE;Caio César;Vice;M;2016;Não;Não
+PCdoB;Edvaldo Nogueira;Prefeito;M;2016;2° Turno;Sim
+PT;Eliane Aquino;Vice;F;2016;2° Turno;Sim
+DEM;João Alves Filho;Prefeito;M;2016;Não;Não
+PSDB;Jailton Santana;Vice;M;2016;Não;Não
+PSOL;Sônia Meire;Prefeito;F;2016;Não;Não
+PSOL;Vinicius Oliveira;Vice;M;2016;Não;Não
+PSB;Valadares Filho;Prefeito;M;2016;2° Turno;Não
+PSC;Antônio dos Santos;Vice;M;2016;2° Turno;Não
+PSTU;Vera Lúcia;Prefeito;F;2016;Não;Não
+PSTU;Elinos Salbino;Vice;M;2016;Não;Não
+PTB;Rodrigo Valadares;Prefeito;M;2020;Não;Não
+PSL;Vanilda;Vice;F;2020;Não;Não
+DC;Paulo Márcio;Prefeito;M;2020;Não;Não
+DC;Simone Vieira;Vice;F;2020;Não;Não
+PT;Márcio Macedo;Prefeito;M;2020;Não;Não
+PT;Ana Lúcia;Vice;F;2020;Não;Não
+Avante;Lúcio Flávio;Prefeito;M;2020;Não;Não
+Avante;Davi Calazans;Vice;M;2020;Não;Não
+PMB;Juraci Nunes;Prefeito;M;2020;Não;Não
+PMB;Alda Rajane;Vice;F;2020;Não;Não
+PSTU;Gilvaní Santos;Prefeito;M;2020;Não;Não
+PSTU;Waltemir Augusto;Vice;M;2020;Não;Não
+DEM;Georlize;Prefeito;M;2020;Não;Não
+DEM;Péricles;Vice;M;2020;Não;Não
+PDT;Edvaldo Nogueira;Prefeito;M;2020;2° Turno;Sim
+PSD;Katarina Feitoza;Vice;F;2020;2° Turno;Sim
+Cidadania;Danielle;Prefeito;F;2020;2° Turno;Não
+PSB;Valadares Filho;Vice;M;2020;2° Turno;Não
+PRTB;Almeida Lima;Prefeito;M;2020;2° Turno;Não
+PRTB;Luis Eduardo;Vice;M;2020;2° Turno;Não
+PSOL;Alexis Pedrão;Prefeito;M;2020;2° Turno;Não
+PSOL;Carol Quintiliano;Vice;F;2020;2° Turno;Não
+PSOL;Niully Campos;Prefeito;F;2024;Não;Não
+PSOL;Alexis Pedrão;Vice;M;2024;Não;Não
+UNIÃO;Yandra Moura;Prefeito;F;2024;Não;Não
+PODE;Belivaldo Chagas;Vice;M;2024;Não;Não
+NOVO;José Paulo Silva;Prefeito;M;2024;Não;Não
+NOVO;Lânia Barboza;Vice;F;2024;Não;Não
+PL;Emília Correa;Prefeito;F;2024;2° Turno;
+Cidadania;Ricardo Marques;Vice;M;2024;2° Turno;
+MDB;Danielle;Prefeito;F;2024;Não;Não
+MDB;Ayslan Araujo;Vice;M;2024;Não;Não
+PT;Candisse Carvalho;Prefeito;F;2024;Não;Não
+PT;Rosângela Santana;Vice;F;2024;Não;Não
+PDT;Luiz Roberto;Prefeito;M;2024;2° Turno;
+PP;Fabiano Oliveira;Vice;M;2024;2° Turno;
